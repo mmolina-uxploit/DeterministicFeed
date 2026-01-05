@@ -38,7 +38,7 @@ Este enfoque garantiza que la lógica de negocio no se mezcle con la UI o los de
 
 La filosofía de diseño y las decisiones arquitectónicas están detalladas en la documentación del proyecto. El documento `ARCHITECTURE.md` describe en profundidad la implementación de Clean Architecture.
 
--   **[`Docs/ARCHITECTURE.md`](DeterministicFeed/Docs/README.md)**
+-   **[`Docs/README.md`](DeterministicFeed/Docs/README.md)**
     Este documento explica la estructura de capas, el flujo de datos y las decisiones de diseño del proyecto.
 
 ---
